@@ -1,0 +1,11 @@
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.1\AdventOfCode2019.deps.json
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.1\AdventOfCode2019.runtimeconfig.json
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.1\AdventOfCode2019.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.1\AdventOfCode2019.dll
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\bin\Debug\netcoreapp2.1\AdventOfCode2019.pdb
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.1\AdventOfCode2019.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.1\AdventOfCode2019.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.1\AdventOfCode2019.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.1\AdventOfCode2019.AssemblyInfo.cs
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.1\AdventOfCode2019.dll
+C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\obj\Debug\netcoreapp2.1\AdventOfCode2019.pdb
