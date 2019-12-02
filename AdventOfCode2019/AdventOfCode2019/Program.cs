@@ -32,6 +32,14 @@ namespace AdventOfCode2019
                     day1.ExecuteDay1Part1();
                     day1.ExecuteDay1Part2();
                     break;
+
+                case 2:
+                    var day2 = new Days.Day2.Day2();
+
+                    day2.Part1();
+                    day2.Part2();
+
+                    break;
             }
 
             return true;
