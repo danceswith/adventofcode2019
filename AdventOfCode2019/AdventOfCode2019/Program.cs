@@ -40,6 +40,15 @@ namespace AdventOfCode2019
                     day2.Part2();
 
                     break;
+
+                case 3:
+
+                    var day3 = new Days.Day3.Day3();
+
+                    day3.Part1();
+                    day3.Part2();
+
+                    break;
             }
 
             return true;

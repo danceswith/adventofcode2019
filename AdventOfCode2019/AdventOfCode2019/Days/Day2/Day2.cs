@@ -11,7 +11,7 @@ namespace AdventOfCode2019.Days.Day2
         {
             Console.WriteLine("Part 1");
 
-            using (var streamReader = new StreamReader(@"C:\Users\Alexander\Documents\adventofcode2019\AdventOfCode2019\AdventOfCode2019\Days\Day2\day2input.txt"))
+            using (var streamReader = new StreamReader($@"{Common.Constants.FILE_LOCATION}Day2\day2input.txt"))
             {
                 var line = streamReader.ReadLine();
 
@@ -28,7 +28,6 @@ namespace AdventOfCode2019.Days.Day2
                         case "99":
                             Console.WriteLine(lineSplit[0]);
                             return;
-                            break;
 
                         case "1":
 
