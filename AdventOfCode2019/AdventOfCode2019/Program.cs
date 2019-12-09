@@ -86,6 +86,16 @@ namespace AdventOfCode2019
                     day7.Part2();
 
                     break;
+
+                case 8:
+                    
+
+                    var day8 = new Days.Day8.Day8();
+
+                    day8.Part1();
+                    day8.Part2();
+
+                    break;
             }
 
             return true;
