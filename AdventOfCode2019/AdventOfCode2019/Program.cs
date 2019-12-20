@@ -96,6 +96,75 @@ namespace AdventOfCode2019
                     day8.Part2();
 
                     break;
+
+                case 9:
+
+                    var day9 = new Days.Day9.Day9();
+
+                    day9.Part1();
+                    day9.Part2();
+
+                    break;
+
+                case 10:
+
+                    var day10 = new Days.Day10.Day10();
+
+                    day10.Part1();
+                    day10.Part2();
+
+                    break;
+
+                case 11:
+
+                    var Day11 = new Days.Day11.Day11();
+
+                    Day11.Part1();
+                    break;
+
+                case 12:
+
+                    var day12 = new Days.Day12.Day12();
+
+                    day12.Part1();
+                    day12.Part2();
+         
+                    break;
+
+                case 13:
+                    var Day13 = new Days.Day13.Day13();
+
+                    Day13.Part1();
+                    Day13.Part2();
+                    break;
+
+                case 14:
+
+                    var Day14 = new Days.Day14.Day14();
+
+                    Day14.Part1();
+                    Day14.Part2();
+                    break;
+
+                case 15:
+
+                    break;
+
+                case 17:
+
+                    var day17 = new Days.Day17.Day17();
+
+                    day17.Part1();
+                    day17.Part2();
+
+                    break;
+
+                case 19:
+                    var day19 = new Days.Day19.Day19();
+
+                    day19.Part2();
+
+                    break;
             }
 
             return true;
